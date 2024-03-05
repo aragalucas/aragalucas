@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aragalucas
-- 👀 I’m interested in finish odin project with the Ruby on Rails path
-- 🌱 I’m currently learning ruby
+- 👀 I’m interested in finish IT graduation
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: lucasaragao0192@gmail.com
 
