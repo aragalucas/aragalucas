@@ -1,4 +1,3 @@
-![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=aragalucas&show_icons=true&theme=transparent)
 - 👋 Hi, I’m @aragalucas
 - 👀 I’m interested in finish IT graduation
 - 🌱 I’m currently learning python poo
